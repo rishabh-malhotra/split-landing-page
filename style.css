@@ -80,7 +80,7 @@ h1{
 
 .split.left{
     left: 0;
-    background:url('images/designer.jpeg') center no-repeat;
+    background:url('https://image.ibb.co/m5HV96/designer.jpg') center no-repeat;
     background-size: cover;
 }
 
@@ -94,7 +94,7 @@ h1{
 
 .split.right{
     right: 0;
-    background: url('images/programmer.png') center no-repeat;
+    background: url('https://image.ibb.co/gqT92R/programmer.png') center no-repeat;
     background-size: cover;
 }
 
